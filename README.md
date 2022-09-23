@@ -1,0 +1,2 @@
+# CoffeeShop
+Biz coffee magazasi üçün müştəri idarəetmə sistemi yazmaq istəyirik.bu şirkətstarbucks və nero şirkəti üçün işləyəcək. Hər iki şirkət öz müştərilərinin məlumatlarınıbazada saxlamaq istəyir. Starbucks müştəriləri qeydiyyatdan keçirərkən həmişə mernis yoxlamasını tələb edir. Neron belə bir şey istəmir. starbucks müştərilərinin hər dəfə qəhvə aldıqları zaman ulduz qazanmalarını istəyir.  
