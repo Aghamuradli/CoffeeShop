@@ -1,0 +1,8 @@
+C:\Users\Agamuradov\source\repos\CoffeeShopBaku\CoffeeShopBaku\obj\Debug\CoffeeShopBaku.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\CoffeeShopBaku\CoffeeShopBaku\obj\Debug\CoffeeShopBaku.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agamuradov\source\repos\CoffeeShopBaku\CoffeeShopBaku\obj\Debug\CoffeeShopBaku.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\CoffeeShopBaku\CoffeeShopBaku\bin\Debug\CoffeeShopBaku.exe.config
+C:\Users\Agamuradov\source\repos\CoffeeShopBaku\CoffeeShopBaku\bin\Debug\CoffeeShopBaku.exe
+C:\Users\Agamuradov\source\repos\CoffeeShopBaku\CoffeeShopBaku\bin\Debug\CoffeeShopBaku.pdb
+C:\Users\Agamuradov\source\repos\CoffeeShopBaku\CoffeeShopBaku\obj\Debug\CoffeeShopBaku.exe
+C:\Users\Agamuradov\source\repos\CoffeeShopBaku\CoffeeShopBaku\obj\Debug\CoffeeShopBaku.pdb
